@@ -2,7 +2,7 @@
 
 Setup a Firebase cli tools environment inside a docker container
 
-## 1. Build `Dockerfile` and name it
+## 1. Build the `Dockerfile` and name the image
 
 The docker image will be created from the basic node:alpine image
 
